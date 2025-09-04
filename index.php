@@ -1,0 +1,8 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="refresh" 
+   content="0; url=https://temphost.blob.core.windows.net/host/1019841923.html?acesso=gad_source=1&gad_campaignid=12067u876565483&gbraid=0AAAAADyYu_ilGfIPcJVhS0GcaPgunCEdT&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJSK2UeInHRwPJF6NwK36YchX7vT2YcRfFQJItNXCJqGQrNyvRXpAakaArNyEALw_wc-gad_source=1&gad_campaignid=12081252383&gbraidacesso=gad_source=1&gad_campaignid=12081252383&gbraid=0AAAAADyYu_ilGfIPcJVhS0GcaPgunCEdT&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJSK2UeInHRwPJF6NwK36YchX7vT2YcRfFQJItNXCJqGQrNyvRXpAakaArNyEALw_wc-gad_source=1&gad_campaignid=12081252383&gbraid">
+</head>
+
+</html>
